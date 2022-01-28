@@ -1,0 +1,160 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.header{
+background:#3498db ;
+}
+
+.logo a img{
+width: 150px;
+}
+.menu{
+
+}
+.menu ul{
+margin-bottom: 0;
+text-align: right;
+
+}
+.menu ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: -5px;
+}
+.menu ul li a {
+    color: #fff;
+    font-size: 25px;
+    display: inline-block;
+    padding: 0px 10px;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    line-height: 50px;
+}
+.menu ul li a:hover{
+    background: #9c88ff;
+}
+/**** Banner section  *****/
+.banner{
+    background: url(https://i.ibb.co/7jzZx0f/photo-slideshow.jpg) no-repeat ;
+    background-size: cover;
+    padding: 150px 0;
+}
+.text-1 h1{
+    background: #3498db;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px;
+   
+}
+.text-1 h2{
+    background: #fbc531;
+    padding: 5px 10px;
+    display: inline-block;
+    width: 500px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+/*****  About section   *****/
+.about{
+    background: #ddd;
+}
+.about h2{
+    font-size: 35px;
+}
+/**** Service section ****/
+.card{
+background: #fff;
+}
+.card span i {
+    font-size: 20px;
+    color: #fff;
+    background: #3498db;
+    padding: 15px 15px;
+    margin-top: 10px;
+    border-radius: 15px 0 15px 0;
+    margin-bottom: 8px;
+}
+/*****  Product section   ****/
+img{
+    max-width: 100%;
+}
+.product-item p{
+    font-size: 18px;
+}
+.product-right {
+
+}
+.product-right h2 {
+    font-size: 35px;
+    border-bottom: 1px solid black;
+}
+.product-right ul{
+padding-left: 0;
+list-style: none;
+}
+
+.product-right ul li {
+    background: #ddd;
+    padding: 5px 5px;
+    font-size: 21px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+/**** Footer section  ****/
+.footer{
+    background: black;
+}
+.footer p{
+    font-size: 35px;
+}
+.text ul{
+text-align: right;
+}
+.text ul li{
+display: inline-block;
+list-style: none;
+}
+.text ul li a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 25px;
+    background: #00a8ff;
+    color: #fff;
+    padding: 9px 13px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
